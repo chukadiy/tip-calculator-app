@@ -43,11 +43,6 @@ import Button from './components/Button.vue'
 import InputBill from './components/InputBill.vue'
 import InputPeople from './components/InputPeople.vue'
 import Result from './components/Result.vue'
-import Vue from 'vue'
-import money from './components/v-money.vue'
-
-Vue.use(money, {precision: 4})
-
 
 export default {
   name: 'App',
@@ -179,8 +174,7 @@ body {
 
 .reset {
   display: inline-block;
-  background: hsl(186, 14%, 43%);
-  opacity: 50%;
+  background-color: hsl(186, 14%, 43%);
   color: hsl(183, 100%, 15%);
   border: none;
   width: 84%;
