@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [(https://github.com/chukadiy/tip-calculator-app)]
-- Live Site URL: [(https://chukadiy.github.io/tip-calculator-app/)]
+- Live Site URL: [(https://chukadiy-tip-calculator-app.netlify.app/))]
 
 ## Building the project
 
@@ -58,7 +58,8 @@ Below is a process, I used in building this project:
 3. I looked through the designs to start planning out how to tackle the project. This step was crucial to help me think ahead for CSS classes to create reusable styles.
 4. Before adding any styles, I structured my content with HTML. Writing your HTML first helped me focus my attention on creating well-structured content.
 5. I wrote out the base styles for the project, including general content styles, such as `font-family` and `font-size`.
-6. I started adding styles to the top of the page and worked my way down. moving on to the next section only when I'm a bit satisfied with the area I am working on.
+6. I started adding styles to the top of the page and worked my way down, moving on to the next section only when I'm a bit satisfied with the area I am working on.
+7. I deployed to netlify app.[netlify](app.netlify.com). Deploying vue to netlify makes it easier to show how it works on live.
 
 ## Author
 
